@@ -1,0 +1,13 @@
+# Core
+langchain
+langgraph
+langchain_google_genai
+
+# Para carregar e dividir o documento PDF
+pypdf
+
+# Para a base de dados vetorial (simples e em memória)
+faiss-cpu
+
+# Para carregar a API Key do .env
+python-dotenv

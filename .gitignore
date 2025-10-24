@@ -1,0 +1,14 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do FAISS (ele pode salvar índices localmente)
+faiss_index/
+
+gen-lang-client.json
