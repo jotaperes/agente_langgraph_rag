@@ -1,4 +1,4 @@
-# Agente RAG Cíclico com LangGraph
+# Agente RAG Cíclico com LangGraph - EM DESENVOLVIMENTO
 
 Este projeto implementa um agente de IA generativa para responder perguntas sobre um documento específico (RAG). A principal característica é o uso do **LangGraph** para criar um fluxo cíclico e auto-corretivo.
 
